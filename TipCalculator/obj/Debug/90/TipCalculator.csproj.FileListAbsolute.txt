@@ -3,7 +3,6 @@ C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\bin\Debu
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\build.props
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\adb.props
-C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\TipCalculator.csprojAssemblyReference.cache
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\resourcepaths.cache
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\res.flag
