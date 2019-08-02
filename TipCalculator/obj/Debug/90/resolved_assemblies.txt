@@ -1,5 +1,11 @@
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\TipCalculator.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\Microsoft.AppCenter.Analytics.Android.Bindings.dll
+C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\Microsoft.AppCenter.Analytics.dll
+C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\Microsoft.AppCenter.Android.Bindings.dll
+C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\Microsoft.AppCenter.Crashes.Android.Bindings.dll
+C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\Microsoft.AppCenter.Crashes.dll
+C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\Microsoft.AppCenter.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\Mono.Android.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\mscorlib.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\System.Core.dll

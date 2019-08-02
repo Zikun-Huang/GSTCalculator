@@ -6,6 +6,9 @@ using Android.Support.Design.Widget;
 using Android.Support.V7.App;
 using Android.Views;
 using Android.Widget;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
 
 namespace TipCalculator
 {
@@ -18,6 +21,8 @@ namespace TipCalculator
         TextView outputTotal;
         protected override void OnCreate(Bundle bundle)
         {
+            AppCenter.Start("3b2e1bb4-98d1-46e5-b1de-abcc7a7347c7",
+                   typeof(Analytics), typeof(Crashes));
             base.OnCreate(bundle);
             Xamarin.Essentials.Platform.Init(this, bundle);
             SetContentView(Resource.Layout.content_main);
