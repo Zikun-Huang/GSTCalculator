@@ -1,4 +1,6 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -6,20 +8,21 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:showIn="@layout/activity_main"
     android:orientation="vertical">
-  
+
     <EditText
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:id="@+id/inputBill" />
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/inputBill"
+        android:layout_marginTop="150.0dp" />
 
     <Button
-    android:id="@+id/calculateButton"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:text="CALCULATE" />
+        android:id="@+id/calculateButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CALCULATE" />
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" >
+        android:layout_height="wrap_content">
         <TextView
             android:text="GST"
             android:layout_marginRight="20dp"
@@ -33,7 +36,7 @@
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" >
+        android:layout_height="wrap_content">
         <TextView
             android:text="Before Tax"
             android:layout_marginRight="20dp"

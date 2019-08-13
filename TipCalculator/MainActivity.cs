@@ -48,9 +48,9 @@ namespace TipCalculator
             if (double.TryParse(text, out bill))
             {
                 var tip = bill / 1.1 * 0.1;
-                tip = Math.Truncate(tip * 100);
+                tip = Math.Truncate(tip * 100) / 100;
                 var total = bill - tip;
-                total = Math.Truncate(total * 100);
+                total = Math.Truncate(total * 100) / 100;
 
                 outputTip.Text = tip.ToString();
                 outputTotal.Text = total.ToString();
