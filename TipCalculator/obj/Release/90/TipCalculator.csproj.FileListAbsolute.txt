@@ -230,3 +230,4 @@ C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Rele
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Release\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Release\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Release\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Release\90\TipCalculator.csprojAssemblyReference.cache
