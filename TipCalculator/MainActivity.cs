@@ -17,11 +17,12 @@ namespace TipCalculator
     {
         EditText inputBill;
         Button calculateButton;
+        Button TestCrashButton;
         TextView outputTip;
         TextView outputTotal;
         protected override void OnCreate(Bundle bundle)
         {
-            AppCenter.Start("3b2e1bb4-98d1-46e5-b1de-abcc7a7347c7",
+            AppCenter.Start("0c990751-fa61-4a50-a1c4-56f709d63749",
                    typeof(Analytics), typeof(Crashes));
             base.OnCreate(bundle);
             Xamarin.Essentials.Platform.Init(this, bundle);
@@ -35,7 +36,8 @@ namespace TipCalculator
             outputTip = FindViewById<TextView>(Resource.Id.outputTip);
             outputTotal = FindViewById<TextView>(Resource.Id.outputTotal);
 
-            calculateButton = FindViewById<Button>(Resource.Id.calculateButton);
+            TestCrashButton = FindViewById<Button>(Resource.Id.TestCrashButton);
+            TestCrashButton.Click += OnTestButtonClick;
 
             calculateButton = FindViewById<Button>(Resource.Id.calculateButton);
             calculateButton.Click += OnCalculateClick;
@@ -55,6 +57,11 @@ namespace TipCalculator
                 outputTip.Text = tip.ToString();
                 outputTotal.Text = total.ToString();
             }
+        }
+
+        void OnTestButtonClick(object sender, EventArgs e)
+        {
+            Crashes.GenerateTestCrash();
         }
 
         public override bool OnCreateOptionsMenu(IMenu menu)

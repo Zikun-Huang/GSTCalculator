@@ -48,4 +48,13 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent" />
     </LinearLayout>
+    <Button
+        android:text="Generate Test Crash"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TestCrashButton"
+        android:layout_marginTop="10.0dp"
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginBottom="0.0dp"
+        android:backgroundTint="#ffffcc80"  />
 </LinearLayout>

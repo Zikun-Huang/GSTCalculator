@@ -3,7 +3,7 @@
   <PropertyGroup>
     <AndroidDesignerPreferredTheme>AppTheme</AndroidDesignerPreferredTheme>
     <AndroidDesignerPreferredDevice>pixel</AndroidDesignerPreferredDevice>
-    <SelectedDevice>nexus_6p_tester</SelectedDevice>
-    <DefaultDevice>nexus_6p_tester</DefaultDevice>
+    <SelectedDevice>Pixel_3_API_28</SelectedDevice>
+    <DefaultDevice>Pixel_3_API_28</DefaultDevice>
   </PropertyGroup>
 </Project>
