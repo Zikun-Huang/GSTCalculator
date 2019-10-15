@@ -10,10 +10,6 @@ C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debu
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\mscorlib.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\System.Core.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\System.dll
-C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\System.Numerics.dll
-C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
-C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\System.Runtime.dll
-C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\System.Xml.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
@@ -50,9 +46,4 @@ C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debu
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\Xamarin.Essentials.dll
-C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\System.Net.Http.dll
-C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\System.Drawing.Common.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
-C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
-C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\Mono.Security.dll
-C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll

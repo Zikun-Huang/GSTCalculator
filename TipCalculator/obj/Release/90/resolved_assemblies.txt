@@ -11,7 +11,6 @@ C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Rele
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Release\90\android\assets\System.Core.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Release\90\android\assets\System.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Release\90\android\assets\System.Numerics.dll
-C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Release\90\android\assets\System.Xml.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Release\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Release\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
