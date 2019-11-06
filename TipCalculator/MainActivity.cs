@@ -57,10 +57,12 @@ namespace TipCalculator
                 outputTip.Text = tip.ToString();
                 outputTotal.Text = total.ToString();
             }
+            Analytics.TrackEvent("Calculate button clicked");
         }
 
         void OnTestButtonClick(object sender, EventArgs e)
         {
+            Analytics.TrackEvent("Crash button clicked");
             Crashes.GenerateTestCrash();
         }
 
