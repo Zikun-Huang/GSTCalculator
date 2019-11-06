@@ -24,6 +24,7 @@ namespace TipCalculator
         {
             AppCenter.Start("0c990751-fa61-4a50-a1c4-56f709d63749",
                    typeof(Analytics), typeof(Crashes));
+            Analytics.TrackEvent("App Center service loaded.");
             base.OnCreate(bundle);
             Xamarin.Essentials.Platform.Init(this, bundle);
             SetContentView(Resource.Layout.content_main);
