@@ -40,15 +40,15 @@
           "dependencies": {
             "Microsoft.AppCenter": {
               "target": "Package",
-              "version": "[2.5.0, )"
+              "version": "[2.6.1, )"
             },
             "Microsoft.AppCenter.Analytics": {
               "target": "Package",
-              "version": "[2.5.0, )"
+              "version": "[2.6.1, )"
             },
             "Microsoft.AppCenter.Crashes": {
               "target": "Package",
-              "version": "[2.5.0, )"
+              "version": "[2.6.1, )"
             },
             "Xamarin.Android.Support.Core.Utils": {
               "target": "Package",
