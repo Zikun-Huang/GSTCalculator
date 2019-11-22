@@ -306,3 +306,4 @@ C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debu
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\zihuan\OneDrive - Microsoft\GitHub\GSTCalculator\TipCalculator\obj\Debug\90\TipCalculator.csprojAssemblyReference.cache

@@ -57,8 +57,9 @@ namespace TipCalculator
 
                 outputTip.Text = tip.ToString();
                 outputTotal.Text = total.ToString();
+
+                Analytics.TrackEvent("Calculate button clicked");
             }
-            Analytics.TrackEvent("Calculate button clicked");
         }
 
         void OnTestButtonClick(object sender, EventArgs e)
